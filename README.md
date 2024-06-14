@@ -1,6 +1,6 @@
 # Connect to Cardano Wallet
 
-This is a simple code example to connect a web application / dApp with a Cardano wallet installed in the browser.
+This is a simple code example to connect a web application or dApp with a Cardano wallet installed in the browser.
 
 ## Getting Started
 
