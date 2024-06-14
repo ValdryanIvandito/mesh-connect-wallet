@@ -1,10 +1,10 @@
 # Connect to Cardano Wallet
 
-This is an example code to make a web app or dApp that can connect to the Cardano wallet.
+This is a simple code example to connect a web application / dApp with a Cardano wallet installed in the browser.
 
 ## Getting Started
 
-Installing the package 
+Installing the package
 
 ```bash
 yarn install
@@ -16,7 +16,7 @@ or
 npm install
 ```
 
-Run the project in development mode 
+Run the project in development mode
 
 ```bash
 yarn dev
@@ -28,7 +28,7 @@ or
 npm run dev
 ```
 
-Build the project 
+Build the project
 
 ```bash
 yarn build
@@ -40,7 +40,7 @@ or
 npm run build
 ```
 
-Run the project in production mode 
+Run the project in production mode
 
 ```bash
 yarn start
